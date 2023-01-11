@@ -1,0 +1,91 @@
+package relogio;
+
+import java.util.ArrayList;
+
+class Numero 
+{
+	protected static ArrayList<String> arrayn = new ArrayList<>();
+	public void mostraN()
+	{
+	arrayn.add("-");
+	arrayn.add("d.");
+	arrayn.add("d.");
+	arrayn.add("y`");
+	arrayn.add("y.");
+	arrayn.add("d.");
+	arrayn.add("d.");
+	arrayn.add("`");
+	arrayn.add(" /+++++:-");
+	arrayn.add("       -h");
+	arrayn.add("       -h");
+	arrayn.add(".-::::::s");
+	arrayn.add("d.-----. ");
+	arrayn.add("N        ");
+	arrayn.add("m `````  ");
+	arrayn.add(".//////- ");
+	arrayn.add(".++++++:`");
+	arrayn.add("       s/");
+	arrayn.add("       s/");
+	arrayn.add("`::::::s:");
+	arrayn.add("`------s:");
+	arrayn.add("       s/");
+	arrayn.add(" ``````s/");
+	arrayn.add(".//////. ");
+	arrayn.add("-       :");
+	arrayn.add("m`      N");
+	arrayn.add("m`      N");
+	arrayn.add("y-:::::-d");
+	arrayn.add(" .-----.d");
+	arrayn.add("        N");
+	arrayn.add("        N");
+	arrayn.add("        `");
+	arrayn.add("`:++++++- ");
+	arrayn.add("-h        ");
+	arrayn.add("-h        ");
+	arrayn.add(".s-:::::.`");
+	arrayn.add(" `.-----+o");
+	arrayn.add("        +s");
+	arrayn.add("  ``````+s");
+	arrayn.add(" `//////-`");
+	arrayn.add("-:++++++  ");
+	arrayn.add("y/        ");
+	arrayn.add("y/        ");
+	arrayn.add("s/:::::-. ");
+	arrayn.add("s/-----.h.");
+	arrayn.add("y/      d.");
+	arrayn.add("y/``````d.");
+	arrayn.add("`-//////. ");
+	arrayn.add(" /+++++:-");
+	arrayn.add("       -d");
+	arrayn.add("       -d");
+	arrayn.add("       .y");
+	arrayn.add("       .y");
+	arrayn.add("       -d");
+	arrayn.add("       .d");
+	arrayn.add("        `");
+	arrayn.add(".:++++++:`");
+	arrayn.add("+o      s/");
+	arrayn.add("+o      s/");
+	arrayn.add("/o::::::s:");
+	arrayn.add("/o------s:");
+	arrayn.add("+o      s/");
+	arrayn.add("+o``````s/");
+	arrayn.add("`-//////. ");
+	arrayn.add("-/+++++/:");
+	arrayn.add("m.      N");
+	arrayn.add("m.      N");
+	arrayn.add("y::::::-d");
+	arrayn.add(" .-----.d");
+	arrayn.add("        N");
+	arrayn.add("  ``````N");
+	arrayn.add(" ://////`");
+	arrayn.add("`:++++++:.");
+	arrayn.add("-h      /s");
+	arrayn.add("-h      /s");
+	arrayn.add(".y      :o");
+	arrayn.add("-y      /o");
+	arrayn.add("-h      /s");
+	arrayn.add("-h``````/s");
+	arrayn.add(" .//////-`");
+	}
+}
